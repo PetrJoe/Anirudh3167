@@ -26,11 +26,11 @@ Frameworks:-
 2. Tensorflow (Basic)
 3. ReactJs (Mediocre)
 4. NextJs (Mediocre)
-5. VS Code (Advanced)
+5. VS Code (Advanced)(editor)
 6. Django-Rest-Framework (Advanced)
 7. Laravel (Basic)
 8. Android studio (Basic)
-9. Replit (Mediocre)
+9. Replit (Mediocre)(editor)
 10. Bootstrap (Basic)
 11. Tkinter (Mediocre)
 12. Turtle (Mediocre)
@@ -40,6 +40,12 @@ Skills:-
 2. Deep Learning (Basics of image classification)
 3. Database Management (MySQL basic)
 4. Cloud computing (Basics)
+5. API Creation and integration 
+
+Learning:-
+1. Django Celery
+2. Machine Learning
+3. Android development
 
 Web Hosting platforms:-
 1. GitHub (for static pages)
