@@ -8,8 +8,11 @@
 Anirudh3167/Anirudh3167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Languages:-
+### Languages:-
 1. C (Mediocre)
 2. C++ (Mediocre)
 3. Python (Expert)
@@ -21,7 +24,7 @@ Languages:-
 9. MySQL (Mediocre)
 10. PHP (Beginner)
 
-Frameworks:-
+### Frameworks:-
 1. Django (Advanced)
 2. Tensorflow (Basic)
 3. ReactJs (Mediocre)
@@ -35,24 +38,24 @@ Frameworks:-
 11. Tkinter (Mediocre)
 12. Turtle (Mediocre)
 
-Skills:-
+### Skills:-
 1. Web development (Full stack)
 2. Deep Learning (Basics of image classification)
 3. Database Management (MySQL basic)
 4. Cloud computing (Basics)
 5. API Creation and integration 
 
-Learning:-
+### Learning:-
 1. Django Celery
 2. Machine Learning
 3. Android development
 
-Web Hosting platforms:-
+### Web Hosting platforms:-
 1. GitHub (for static pages)
 2. Pythonanywhere (for dynamic pages)
 3. Heroku (not using it currently)
 
-Projects:-
+### Projects:-
 1. STARTICFIELD Website
 2. Climate FinTech Website (currently working)
 3. Store it (waiting list)
