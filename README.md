@@ -1,3 +1,11 @@
+<div id="shields-img" align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-13followers-blue?style=social&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Facebook-150+friends-blue?style=social&logo=facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Resume-222?style=flat&logo=resume" alt="Resume">
+    <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
+ </div>
+ 
+### Little Intro:-
 - 👋 Hi, I’m @Anirudh3167
 - 👀 I’m interested in Web dev , AI and ML
 - 🌱 I’m currently learning DJANGORESTFRAMEWORK 
@@ -13,7 +21,42 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### Languages:-
-1. C (Mediocre)
+<table>
+  <tr>
+    <th> S.No. </th> <th> Language </th> <th> Expertise </th>
+  </tr>
+  <tr>
+    <td> 1. </td> <td>C </td> <td>(Mediocre)</td>
+  </tr>
+  <tr>
+    <td> 2. </td> <td>C++ </td> <td>(Mediocre)</td>
+  </tr>
+  <tr>
+    <td> 3. </td> <td>Python </td> <td>(Expert)</td>
+  </tr>
+  <tr>
+    <td> 4. </td> <td>Html </td> <td>(Mediocre)</td>
+  </tr>
+  <tr>
+    <td> 5. </td> <td>Css </td> <td>(Mediocre)</td>
+  </tr>
+  <tr>
+    <td> 6. </td> <td>JavaScript </td> <td>(Learning)</td>
+  </tr>
+  <tr>
+    <td> 7. </td> <td>Batch Files </td> <td>(Beginner)</td>
+  </td>
+  <tr>
+    <td> 8. </td> <td>Kotlin </td> <td>(Learning)</td>
+  </tr>
+  <tr>
+    <td> 9. </td> <td>MySql </td> <td>(Mediocre)</td>
+  </tr>
+  <tr>
+    <td> 10. </td> <td>PHP </td> <td>(Beginner)</td>
+  </tr>
+</table>
+<!---
 2. C++ (Mediocre)
 3. Python (Expert)
 4. Html (Mediocre)
@@ -23,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 8. Kotlin (learning)
 9. MySQL (Mediocre)
 10. PHP (Beginner)
+---!>
 
 ### Frameworks:-
 1. Django (Advanced)
