@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-Resume-222?style=flat&logo=resume" alt="Resume">
     <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
  </div>
- 
+
 ### Little Intro:-
 - 👋 Hi, I’m @Anirudh3167
 - 👀 I’m interested in Web dev , AI and ML
@@ -105,5 +105,8 @@ You can click the Preview link to take a look at your changes.
 3. Store it (waiting list)
 4. Chat Application (waiting list)
 
-### Stats:-
+### Github Stats:-
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
+
