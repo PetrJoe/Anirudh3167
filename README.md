@@ -104,3 +104,6 @@ You can click the Preview link to take a look at your changes.
 2. Climate FinTech Website (currently working)
 3. Store it (waiting list)
 4. Chat Application (waiting list)
+
+### Stats:-
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
