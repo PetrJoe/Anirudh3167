@@ -21,27 +21,46 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### Languages:-
+<div id="lang-icons" align="left" style="display:inline;">
+    <span id="lang1" height="80" width="70">
+        <img height="64" width="64" src="https://cdn.simpleicons.org/c" /> <br>
+        (Mediocre)
+    </div>  &nbsp;&nbsp;
+    <div id="lang2">
+        <img height="64" width="64" src="https://cdn.simpleicons.org/c++" /> <br>
+        (Mediocre)
+    </div>  &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/html" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/css" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/javascript" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/batchfiles" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/kotlin" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/mysql" /> &nbsp;&nbsp;
+    <img height="64" width="64" src="https://cdn.simpleicons.org/php" /> &nbsp;&nbsp;
+</div>
+
 <table>
   <tr>
     <th> S.No. </th> <th> Language </th> <th> Expertise </th>
   </tr>
   <tr>
-    <td> 1. </td> <td>C </td> <td>(Mediocre)</td>
+    <td> 1. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/C" /> </td> <td>(Mediocre)</td>
   </tr>
   <tr>
-    <td> 2. </td> <td>C++ </td> <td>(Mediocre)</td>
+    <td> 2. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/c++" /></td> <td>(Mediocre)</td>
   </tr>
   <tr>
-    <td> 3. </td> <td>Python </td> <td>(Expert)</td>
+    <td> 3. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/python" /> </td> <td>(Expert)</td>
   </tr>
   <tr>
-    <td> 4. </td> <td>Html </td> <td>(Mediocre)</td>
+    <td> 4. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/html" /> </td> <td>(Mediocre)</td>
   </tr>
   <tr>
-    <td> 5. </td> <td>Css </td> <td>(Mediocre)</td>
+    <td> 5. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/css" /> </td> <td>(Mediocre)</td>
   </tr>
   <tr>
-    <td> 6. </td> <td>JavaScript </td> <td>(Learning)</td>
+    <td> 6. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> </td> <td>(Learning)</td>
   </tr>
   <tr>
     <td> 7. </td> <td>Batch Files </td> <td>(Beginner)</td>
